@@ -26,8 +26,7 @@ To execute:
 Input:
 - Mode: Scramble (1)
 - Text: `helloworld`
-- Key: `K` \\The key should be in capital letter as it is case sensetive 
-
+- Key: `K` 
 Output:
 - Result: `#.''$<$9'/`
 
